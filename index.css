@@ -36,6 +36,7 @@ p {
     background: #10B981;
     border: none;
     border-radius: 0.375rem;
+    text-shadow: 0 0 4px black;
 }
 
 #password-container {
