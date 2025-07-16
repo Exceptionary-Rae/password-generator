@@ -76,7 +76,7 @@ p {
 @media (max-width: 600px) {
     body {
         margin: 0;
-        padding: 2rem;
+        padding: 1rem;
         max-width: 100%;
     }
 
